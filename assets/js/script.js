@@ -59,7 +59,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["am a Driving Instructor", "Part-Time Driver"],
+    strings: ["am a Driving Instructor", "Part-Time Driver", "offer Inter-City pickup & drop services"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
